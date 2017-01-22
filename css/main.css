@@ -1,0 +1,39 @@
+    body {
+        background: url("../img/background.jpg") fixed;
+        background-repeat: no-repeat;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+    }
+
+    .navbar-brand {
+        float:left;
+        height:50px;
+        padding:15px 15px;
+        font-size:17px;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+        color: white;
+        line-height:20px
+    }
+
+    /*header{
+        text-align: center;
+    }*/
+
+    footer{
+        text-align: center;
+    } 
+
+    .img-responsive1{
+        display: block;
+        margin: 0 auto;
+        width: 70%;
+    }
+
+    iframe{
+        display: block;
+        margin: 0 auto;
+        width: 70%;
+    }
+    
